@@ -1,7 +1,8 @@
 # Gemini Clone
-
 A Gemini AI clone built using the **Gemini API** and **React.js**. This project replicates the functionality of Gemini, allowing users to interact with an AI-powered chatbot.
 
+
+![Recording 2025-02-18 171050 (1)](https://github.com/user-attachments/assets/c8e69c0b-5f70-4526-bbb9-0008f8e41c67)
 
 ---
 
