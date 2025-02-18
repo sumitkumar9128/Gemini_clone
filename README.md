@@ -3,6 +3,7 @@ A Gemini AI clone built using the **Gemini API** and **React.js**. This project 
 
 
 ![Recording 2025-02-18 171050 (1)](https://github.com/user-attachments/assets/c8e69c0b-5f70-4526-bbb9-0008f8e41c67)
+![Screenshot 2025-02-18 174032](https://github.com/user-attachments/assets/0c758d09-193d-4c2d-9f02-ed8cbc958478)
 
 ---
 
